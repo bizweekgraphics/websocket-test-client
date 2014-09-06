@@ -13,5 +13,5 @@ npm install
 
 Example: 
 ```
-node app.js -c 200 -u ws://ec2-54-68-100-105.us-west-2.compute.amazonaws.com/
-```t
+node app.js -c 200 -u ws://example.com
+```
